@@ -20,7 +20,7 @@ The architecture is designed for FPGA deployment and neuromorphic computing rese
 
 ### Top-Level Architecture
 
-![Top Architecture](architecture/Top-level SNN architecture.png)
+![Top Architecture](architecture/top-level-snn-architecture.png)
 
 ### Training and Inference Flow
 
@@ -96,12 +96,11 @@ Selects the dominant firing neuron while suppressing competing neurons.
 
 ### Neuron Behavior
 
-![Neuron Waveform](waveforms/Vivado waveform for neuron behavior.png
-)
+![Neuron Waveform](waveforms/neuron-behavior.png)
 
 ### Winner Selection
 
-![WTA Waveform](waveforms/wta_img.png)
+![WTA Waveform](waveforms/wta-winner-selection.png)
 
 ---
 

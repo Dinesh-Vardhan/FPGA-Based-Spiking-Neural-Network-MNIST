@@ -20,7 +20,7 @@ The architecture is designed for FPGA deployment and neuromorphic computing rese
 
 ### Top-Level Architecture
 
-![Top Architecture](architecture/top-level-snn-architecture.png)
+![Top Architecture](architecture/Top-level SNN architecture.png)
 
 ### Training and Inference Flow
 

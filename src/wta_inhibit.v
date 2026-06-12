@@ -69,7 +69,7 @@ module wta_inhibit #(
                         inhibit_out[i] <= 1'b1;
                 end
             end
-
+            
             // accumulate spike counts across the image
             for (i = 0; i < NUM_NEURONS; i = i + 1) begin
                 if (spikes_in[i]) begin
